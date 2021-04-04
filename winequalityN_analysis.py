@@ -61,6 +61,7 @@ sc = StandardScaler()
 X_train = sc.fit_transform(X_train)
 X_test = sc.fit_transform(X_test)
 
+# training the model 
 from sklearn.ensemble import RandomForestClassifier
 model = RandomForestClassifier(n_estimators = 1000)
 model.fit(X_train, y_train)
