@@ -4,13 +4,13 @@ Predicting the Quality of Red and White Wine using for Random Forest Classifier,
 
 This project contains a jupyter notebook and python file, and using concepts like: 
 * Data Extraction
- * Downloading a publicly available dataset
- * Describing the dataset
- * Describing the research question
+  * Downloading a publicly available dataset
+  * Describing the dataset
+  * Describing the research question
 * Data Pre-processing
- * Removing/filling missing data
- * Creating new columns
- * Modifying exsting columns
+  * Removing/filling missing data
+  * Creating new columns
+  * Modifying exsting columns
 * Data Visualization
 * Training and Testing Model
 * Classification
