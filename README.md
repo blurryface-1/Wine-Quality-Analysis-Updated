@@ -1,6 +1,6 @@
 # Wine-Analysis-Updated
 
-Predicting the Quality of Red and White Wine using for Random Forest Classifier, Data Visualizations and Data Analysis.
+Predicting the Quality of Red and White Wine using Random Forest Classifier, Data Visualizations and Data Analysis.
 
 This project contains a jupyter notebook and python file, and using concepts like: 
 * Data Extraction
